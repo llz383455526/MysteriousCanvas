@@ -1,0 +1,24 @@
+{
+  "name": "MysteriousCanvas",
+  "version": "1.0.0",
+  "description": "Step by step to Mysterious Canvas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llz383455526/MysteriousCanvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llz383455526/MysteriousCanvas/issues"
+  },
+  "homepage": "https://github.com/llz383455526/MysteriousCanvas#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
+}
